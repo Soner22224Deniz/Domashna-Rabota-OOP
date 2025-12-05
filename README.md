@@ -49,23 +49,23 @@ g++ -std=c++17 -Wall -Wextra -O2 main.cpp -o main <br>
 Примерен изход от програмата:  <br>
 
 
-Total book: 3
-Total members: 2
-Total loans: 0
+Total book: 3 <br>
+Total members: 2 <br>
+Total loans: 0 <br>
 <br>
-Loan created for ISBN-001.
-Loan created for ISBN-003.
+Loan created for ISBN-001. <br>
+Loan created for ISBN-003. <br>
 <br>
-Members and loans now:
-Total book: 3
-Total members: 2
-Total loans: 2
+Members and loans now: <br> <br>
+Total book: 3 <br>
+Total members: 2 <br>
+Total loans: 2 <br>
 <br>
-Available ISBN-001? true
-Is ISBN-001 Available after return? false
-Books by Иван Вазов:
-Title: Под игото Year: 1894 Price: 30.890000 Isbn: ISBN-001 TotalBooks: 0
-Title: Немили-недраги Year: 1900 Price: 17.500000 Isbn: ISBN-002 TotalBooks: 0
+Available ISBN-001? true <br>
+Is ISBN-001 Available after return? false <br>
+Books by Иван Вазов: <br>
+Title: Под игото Year: 1894 Price: 30.890000 Isbn: ISBN-001 TotalBooks: 0 <br>
+Title: Немили-недраги Year: 1900 Price: 17.500000 Isbn: ISBN-002 TotalBooks: 0 <br>
 <br>
 <br>
 
